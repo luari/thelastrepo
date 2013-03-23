@@ -2,7 +2,7 @@ package repotesteando
 
 class Personas {
 
-	String name
+	String names
     static constraints = {
 		
     }
